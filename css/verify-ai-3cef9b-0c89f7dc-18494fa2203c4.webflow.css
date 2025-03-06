@@ -822,7 +822,7 @@ a:hover {
   background-clip: border-box;
   justify-content: center;
   align-items: center;
-  margin-left: 40px;
+  margin-left: 20px;
   font-weight: 400;
   line-height: 1.2;
   text-decoration: none;
@@ -4899,7 +4899,7 @@ a:hover {
   letter-spacing: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1740858322444---text-lg--lg-text-letter-spacing);
   color: color-mix(in srgb, currentColor 70%, transparent);
   margin-left: 20px;
-  padding-left: 20px;
+  padding-left: 0;
 }
 
 .on-accent-icon {
@@ -5214,7 +5214,7 @@ a:hover {
 }
 
 .heading {
-  font-size: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1740858322444---h2-heading--h2-size-tablet);
+  font-size: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1740858322444---h2-heading--h2-size);
   line-height: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1740858322444---h3-heading--h3-size);
   color: #6be3e8;
   margin-top: 40px;
